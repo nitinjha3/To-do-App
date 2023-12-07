@@ -23,10 +23,22 @@
     color: #153677;
     display: flex;
     align-items: center;
+    /* display: flex;
+    justify-content: space-between; */
+}
+#date{
+    /* text-align: right; */
+    color: #dd1313;
+    
 }
 .main h1 img{
     height: 25px;
     margin-left: 10px;
+}
+.col{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
 }
 .row{
     display: flex;
